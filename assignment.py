@@ -1,5 +1,5 @@
-def solve(format_str):
+def solve():
     """
-    백준 16968번 문제 코드를 작성해주세요.
+    "Hello World!" 를 출력해주시요.
     """
     raise NotImplementedError("코드를 구현해 주세요.")
